@@ -1,0 +1,13 @@
+
+body{
+    background-color: #D2DEF2;
+}
+img{
+    height: 450;
+    width:fit-content;
+    border: 10px solid rgb(107, 203, 233);
+    border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+
+}
