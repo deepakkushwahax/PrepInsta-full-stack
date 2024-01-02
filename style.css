@@ -1,0 +1,12 @@
+.bg-body-color {
+    background-color: #f5f5f5;
+}
+.colored-section {
+    background-color: #868484;
+    height: 200px;
+}
+.green-section {
+    background-color: #2ecc71;
+    height: 100px;
+    border: 2px solid rgba(40, 162, 173, 0.452);
+}
